@@ -57,10 +57,13 @@ public class MethodExample {
 		
 		int result = method.add(5, 15, 25, 35);
 		System.out.println(result);
+		
 		int result1 =  method.subtraction(2500, 1500);
 		System.out.println(result1);
+		
 		int result3 =  method.Division(62500, 50);
 		System.out.println(result3);
+		
 		int result4 = method.Multiplication(250 ,250);
 		System.out.println(result4);
 		
